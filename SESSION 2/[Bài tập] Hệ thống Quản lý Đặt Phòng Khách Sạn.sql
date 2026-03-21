@@ -42,3 +42,4 @@ create table hotel.Payments (
     payment_date date not null,
     method varchar(20) check ( method in ('creduit','card','momo','cash','bank transfer') )
 );
+
