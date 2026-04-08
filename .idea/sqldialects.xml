@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/SESSION 10/[Bài tập] Quản lý tồn kho tự động cho cửa hàng trực tuyến.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/SESSION 10/demo.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/SESSION 7/[Bài tập] Hệ thống phân tích dữ liệu du lịch - view + index tổng hợp.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/SESSION 7/[Bài tập] Tối ưu hệ thống quản lý đơn hàng bằng Index &amp; View.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/SESSION 8/[Bài tập] Tính giá sau khuyến mãi cho sản phẩm.sql" dialect="PostgreSQL" />
