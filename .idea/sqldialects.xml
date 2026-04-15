@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/JB-IOC-PTHB260316-Hoang Van Do/thikthp.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/SESION 12/[ Luyện tập ] Cập nhật tồn kho sau khi bán sản phẩm.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/SESION 12/[Bài tập] Kiểm tra tồn kho trước khi bán sản phẩm.SQL" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/SESION 12/[Bài tập] Tự động ghi nhật ký khi thêm khách hàng mới.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/SESION 12/[Bài tập] Tự động tính tổng số tiền đơn hàng.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/SESSION 10/[Bài tập] Quản lý tồn kho tự động cho cửa hàng trực tuyến.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/SESSION 10/demo.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/SESSION 7/BÀI TẬP TỔNG HỢP INDEX &amp; VIEW MASTERY.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/SESSION 7/[ Khá ] Ứng dụng View trong quản lý dữ liệu bán hàng.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/SESSION 7/[Bài tập] Hệ thống phân tích dữ liệu du lịch - view + index tổng hợp.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/SESSION 7/[Bài tập] Tối ưu hóa truy vấn với Index trong PostgreSQL.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/SESSION 7/[Bài tập] Tối ưu hệ thống quản lý đơn hàng bằng Index &amp; View.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/SESSION 8/BÀI TẬP TỔNG HỢP STORED PROCEDURE.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/SESSION 8/[Bài tập] Tính giá sau khuyến mãi cho sản phẩm.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/luyentap/[Bài tập] Tối ưu truy vấn với Index B-Tree.sql" dialect="PostgreSQL" />
     <file url="PROJECT" dialect="PostgreSQL" />
   </component>
 </project>
